@@ -1,27 +1,34 @@
-# Welcome to My GitHub 👋
+# 🛠️ Mes projets de développement
 
-## 🌟 About Me (English Version)
-Hi there! I'm a passionate developer and co-founder of **Golden Shovel**, a programming company dedicated to building innovative solutions for modern challenges. With a strong focus on teamwork and creativity, we aim to dig deep and uncover the best tools for our clients.
-
-### 🌐 Links to My Co-Founders:
-- [Dournovo-M](https://github.com/Dournovo-M)
-- [cholisam](https://github.com/cholisam)
-
-Here, you'll find some of my personal projects, collaborative work, and experiments in various technologies. Let's connect and create something amazing!
+> 🇫🇷 Développeur passionné, je m'intéresse particulièrement au développement web, avec une spécialisation côté back-end.  
+> 🇬🇧 Passionate developer, I’m especially interested in web development, with a focus on back-end technologies.
 
 ---
 
-## 🌟 À propos de moi (Version Française)
-Bonjour ! Je suis un développeur passionné et co-fondateur de **Golden Shovel**, une entreprise de programmation dédiée à la création de solutions innovantes pour relever les défis modernes. Avec un fort esprit d'équipe et de créativité, notre mission est de creuser profondément pour découvrir les meilleurs outils pour nos clients.
+## 🇫🇷 À propos
 
-### 🌐 Liens vers mes Co-fondateurs :
-- [Dournovo-M](https://github.com/Dournovo-M)
-- [cholisam](https://github.com/cholisam)
+Ce dépôt contient une sélection de projets personnels, exercices, et expérimentations techniques.  
+J'explore différentes technologies, frameworks et bonnes pratiques dans le but de monter en compétence en back-end tout en gardant un œil sur l'ensemble du stack web.
 
-Vous trouverez ici certains de mes projets personnels, des travaux collaboratifs, et des expérimentations dans différentes technologies. Connectons-nous et créons quelque chose d'incroyable !
+### 🔧 Ce que j'aime utiliser :
+- Node.js / Express
+- PostgreSQL / MySQL
+- API REST / Auth / Sécurité
+- Docker & déploiement
 
 ---
 
-## 🌱 Let's Collaborate
-Feel free to reach out or explore my repositories to see what I've been working on. Collaboration is the key to innovation, so don't hesitate to connect!
+## 🇬🇧 About
 
+This repository includes personal projects, exercises, and tech experiments.  
+I explore various technologies, frameworks, and best practices to level up my back-end skills, while keeping a broad view on full-stack development.
+
+### 🔧 Things I like to work with:
+- Node.js / Express
+- PostgreSQL / MySQL
+- REST APIs / Auth / Security
+- Docker & deployment
+
+---
+
+> 📫 N’hésite pas à me contacter ou jeter un œil à mon profil pour en voir plus !
