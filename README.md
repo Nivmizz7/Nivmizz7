@@ -15,16 +15,18 @@
 
 ## 🛠️ Stack & Outils | Stack & Tools
 
-```bash
+
 #backend #nodejs #sql #api #docker
 
 🧩 Catégorie	⚙️ Technologies
 Langages	JavaScript · Node.js · SQL · Shell · un peu de Python
 Frameworks	Express · Fastify
 Databases	PostgreSQL · MySQL · SQLite
-Outils	Git · Docker · Postman · VS Code
+Outils	Git · Docker · VS Code
+
 📊 Statistiques GitHub
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TheoM-e&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoM-e&layout=compact&theme=radical&hide_border=true" alt="Top Langs" /> </p>
+
 🌍 Contact
 
     💬 Dispo pour échanger, collaborer ou juste discuter tech.
@@ -33,7 +35,7 @@ Outils	Git · Docker · Postman · VS Code
     🧠 "Apprendre chaque jour, construire avec passion."
 
 
----
+
 
 Tu peux le coller dans un fichier `README.md` à la racine de ton repo.  
 Besoin d'une version avec des badges (Node, Docker, etc.) ou un gif/animation en plus ?
