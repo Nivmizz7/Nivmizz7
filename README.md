@@ -25,7 +25,7 @@ Databases	PostgreSQL · MySQL · SQLite
 Outils	Git · Docker · VS Code
 
 📊 Statistiques GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TheoM-e&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoM-e&layout=compact&theme=radical&hide_border=true" alt="Top Langs" /> </p>
+<p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivmizz7-e&layout=compact&theme=radical&hide_border=true" alt="Top Langs" /> </p>
 
 🌍 Contact
 
