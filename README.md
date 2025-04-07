@@ -23,16 +23,3 @@ Javascript - PostgreSQL - PHP - HTML - CSS - Shell
 
 📊 Statistiques GitHub
 <p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivmizz7&layout=compact&theme=radical&hide_border=true" alt="Top Langs" /> </p>
-
-🌍 Contact
-
-    💬 Dispo pour échanger, collaborer ou juste discuter tech.
-    📫 [Lien vers ton LinkedIn, portfolio ou e-mail pro]
-
-    🧠 "Apprendre chaque jour, construire avec passion."
-
-
-
-
-Tu peux le coller dans un fichier `README.md` à la racine de ton repo.  
-Besoin d'une version avec des badges (Node, Docker, etc.) ou un gif/animation en plus ?
