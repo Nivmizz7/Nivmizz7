@@ -19,10 +19,7 @@
 #backend #nodejs #sql #api #docker
 
 🧩 Catégorie	⚙️ Technologies
-Langages	JavaScript · Node.js · SQL · Shell · un peu de Python
-Frameworks	Express · Fastify
-Databases	PostgreSQL · MySQL · SQLite
-Outils	Git · Docker · VS Code
+Javascript - PostgreSQL - PHP - HTML - CSS - Shell
 
 📊 Statistiques GitHub
 <p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivmizz7&layout=compact&theme=radical&hide_border=true" alt="Top Langs" /> </p>
