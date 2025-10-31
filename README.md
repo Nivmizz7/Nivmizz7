@@ -5,15 +5,6 @@ Principalement orienté **administration système**, avec un fort intérêt pour
 
 ---
 
-## Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=default" />
-  <br/>
-</p>
-
----
-
 ## Liens utiles
 
 - [Site web](https://tonsite.com)  
