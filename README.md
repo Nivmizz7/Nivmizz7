@@ -7,7 +7,7 @@ Principalement orienté **administration système**, avec un fort intérêt pour
 
 ## Liens utiles
 
-- [Site web](https://tonsite.com)  
+- [Site web](https://pickle.nivmizz7.fr)  
 - [Discord](https://discord.gg/7akQQRxrBr)  
 - [Me contacter](mailto:i.am.root@nivmizz7.fr)
 
