@@ -1,28 +1,28 @@
-# Bienvenue
+# Welcome
 
-Passionné par les systèmes Unix, les bonnes pratiques d’administration, et l’open source.  
-Principalement orienté **administration système**, avec un fort intérêt pour l’auto-hébergement, la virtualisation, et l’optimisation d’infrastructure.
-
----
-
-## Liens utiles
-
-- [Site web](https://pickle.nivmizz7.fr)  
-- [Discord](https://discord.gg/7akQQRxrBr)  
-- [Me contacter](mailto:i.am.root@nivmizz7.fr)
+Passionate about Linux systems, administration best practices, and open source.  
+Mainly focused on **system administration**, with a strong interest in self-hosting, virtualization, and infrastructure optimization.
 
 ---
 
-## Technologies utilisées
+## Useful links
 
-- **Virtualisation** : Proxmox VE, VMware ESXi 
-- **Systèmes Unix** : Debian, Ubuntu Server, OpenMediaVault, Arch (btw I use Arch ^^) 
-- **Services & supervision** : SSH, rsyslog, cron, Nginx, Fail2ban, Samba, SMART, LVM  
-- **Réseau** : configuration IP statique, DNS local, Wake-on-LAN, VLAN, accès distant sécurisé  
-- **Sauvegarde** : rsync, Borg, SFTP, snapshots ZFS/LVM  
-- **Scripts et outils CLI** : Bash, journalctl, systemd  
-- **Base de données & stockage** : PostgreSQL, MySQL/MariaDB ext4, Btrfs, ZFS  
-- **Développement léger** : Python (scripts d’automatisation), Web (HTML, CSS, Javascript)
+- [Website](https://nivmizz7.fr)  
+- [Discord](https://discord.gg/ataCNS8etb)  
+- [Contact me](mailto:i.am.root@nivmizz7.fr)
+
+---
+
+## Technologies used
+
+- **Virtualization**: Proxmox VE, VMware ESXi 
+- **Unix systems**: Debian, Ubuntu Server, OpenMediaVault, Arch (btw I use Arch ^^) 
+- **Services & monitoring**: SSH, rsyslog, cron, Nginx, Fail2ban, Samba, SMART, LVM  
+- **Network**: static IP configuration, local DNS, Wake-on-LAN, VLAN, secure remote access  
+- **Backup**: rsync, Borg, SFTP, ZFS/LVM snapshots  
+- **Scripts and CLI tools**: Bash, journalctl, systemd  
+- **Databases & storage**: PostgreSQL, MySQL/MariaDB, ext4, Btrfs, ZFS  
+- **Light development**: Python (automation scripts), Web (HTML, CSS, Javascript)
 
 ---
 
