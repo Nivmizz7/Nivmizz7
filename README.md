@@ -5,15 +5,11 @@ Primarily focused on **system administration**, **virtualization**, and **self-h
 
 **Escape from Tarkov** enjoyer, [TarkovTracker-org](https://github.com/TarkovTracker-org) Admin.
 
----
-
 ## Useful links
 
 - Website: https://nivmizz7.me  
 - Discord: https://discord.gg/PpdDwd2M6V 
 - Contact: i.am.root@nivmizz7.fr
-
----
 
 ## Stack & tools
 
