@@ -15,7 +15,7 @@ Welcome on my README page.
 - [TrackerBot](https://github.com/TarkovTracker-org/TrackerBot) - Discord bot for TarkovTracker.org server
 - [kantine](https://github.com/Nivmizz7/kantine) - bot for food reservation
 
-**World of Warcraft**
+**World of Warcraft :**
 - [peninsula-timer](https://github.com/Nivmizz7/peninsula-timer) - Add-on for AzerothCore (WotLK 3.3.5)
 - [peninsula-boss](https://github.com/Nivmizz7/peninsula-boss) - Add-on for AzerothCore (WotLK 3.3.5)
 - [peninsula-db](https://github.com/Nivmizz7/peninsula-db) - web AzerothCore database reader
