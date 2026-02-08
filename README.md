@@ -1,43 +1,67 @@
 # Welcome
+Welcome on my README page.
 
-Passionate about Linux systems, infrastructure design, and open-source technologies.  
-Primarily focused on **system administration**, **virtualization**, and **self-hosting**, with a strong interest in high availability, data reliability, and automation.
+## Projects / Repositories
 
-**Escape from Tarkov** enjoyer, [TarkovTracker-org](https://github.com/TarkovTracker-org) Admin.
+**Tarkov projects :**
+- [TarkovData](https://github.com/Nivmizz7/TarkovData) - forked from [Thaddeus](https://github.com/Thaddeus) repository, script in TS and update data
+- [api-docs](https://github.com/Nivmizz7/api-docs) - Documentation for my Tarkov [API](https://github.com/Nivmizz7/api)
+- [TarkovTrackerNuxt-fork](https://github.com/Nivmizz7/TarkovTrackerNuxt-fork) - fork of [TarkovTracker](https://github.com/tarkovtracker-org/TarkovTracker)
+- [api](https://github.com/Nivmizz7/api) - REST API based on [TarkovData](https://github.com/Nivmizz7/TarkovData)
+- [manager](https://github.com/Nivmizz7/manager) - data manager for [TarkovData](https://github.com/Nivmizz7/TarkovData) and [api](https://github.com/Nivmizz7/api)
+- [tarkov-data-overlay](https://github.com/Nivmizz7/tarkov-data-overlay) - fork of [tarkov-data-overlay](https://github.com/tarkovtracker-org/tarkov-data-overlay)
 
-## Useful links
+**Discord :**
+- [kantine](https://github.com/Nivmizz7/kantine)
 
-- Website: https://nivmizz7.me  
-- Discord: https://discord.gg/PpdDwd2M6V 
-- Contact: i.am.root@nivmizz7.fr
+**World of Warcraft**
+- [peninsula-timer](https://github.com/Nivmizz7/peninsula-timer) - Add-on for AzerothCore (WotLK 3.3.5)
+- [peninsula-boss](https://github.com/Nivmizz7/peninsula-boss) - Add-on for AzerothCore (WotLK 3.3.5)
+- [peninsula-db](https://github.com/Nivmizz7/peninsula-db) - web AzerothCore database reader
+- [guild-manager](https://github.com/Nivmizz7/guild-manager) - web tool helper for manage WoW guild
 
-## Stack & tools
+**GitHub learning :**
+- [learning-markdown](https://github.com/Nivmizz7/learning-markdown) - Markdown _(Public Archive)_
 
-<p align="center">
-  <!-- Virtualization & systems -->
-  <img src="https://img.shields.io/badge/Proxmox-EE7203?style=for-the-badge&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenMediaVault-4D525D?style=for-the-badge&logo=openmediavault&logoColor=white" />
-</p>
+**Vintage Story :**
+- [VSMU](https://github.com/Nivmizz7/VSMU) - **Not working**
 
-<p align="center">
-  <!-- Languages & web -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
-</p>
+**Other :**
+- [Nivmizz7.github.io](https://github.com/Nivmizz7/Nivmizz7.github.io) - based GitHub pages ([nivmizz7.me](https://nivmizz7.me))
+- [docs](https://github.com/Nivmizz7/docs) - my personnal docs (more **soon**)
+- [hello_100] - "Hello, I am Niv." in 100 different programmation language
+- [nginx-script] - script for nginx web server/proxy (more **soon**)
+- [gm_chip8] - Chip8 emulator, by Monokeros
 
-<p align="center">
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+**Archive :**
+- [web](https://github.com/Nivmizz7/web) - old webpage
+- [kolotun](https://github.com/Nivmizz7/kolotun) - web graph for Kolotun Tarkov quest 2025 with [draw.io](https://draw.io)
+- [tarkov-monitor-website](https://github.com/Nivmizz7/tarkov-monitor-website) - AI made website for TarkovMonitor page
+- [overlay-monitor](https://github.com/Nivmizz7/overlay-monitor) - monitor for [tarkov-data-overlay](https://github.com/tarkovtracker-org/tarkov-data-overlay)
+- [peninsula](https://github.com/Nivmizz7/peninsula) - raid helper for Tarkov but so many problem with maps
+- [TarkovTracker-fork](https://github.com/Nivmizz7/TarkovTracker-fork) - old fork of [TarkovTracker-Archive](https://github.com/TarkovTracker-org/TarkovTracker-Archive)
+- 
+
+**Fork for contributed :**
+- [communicate-using-markdown](https://github.com/Nivmizz7/communicate-using-markdown)
+- [tarkov-dev-fork](https://github.com/Nivmizz7/tarkov-dev-fork)
+- [boss-spawns](https://github.com/Nivmizz7/boss_spawns)
+- [cultist-circle](https://github.com/Nivmizz7/cultist-circle)
+- [RatScanner-fork](https://github.com/Nivmizz7/RatScanner-fork)
+- [TarkovMonitor-fork](https://github.com/Nivmizz7/TarkovMonitor-fork)
+- [stash-fork](https://github.com/Nivmizz7/stash-fork)
+
+## Contact
+
+For contact me, you can send me a mail ([i.am.root@nivmizz7.fr](mailto:i.am.root@nivmizz7.fr)), or can DM me in Discord, with the TarkovTracker-org Discord server ([discord.gg/PpdDwd2M6V](https://discord.gg/PpdDwd2M6V))
 
 ---
 
-<p align="center"> <a href="https://validator.w3.org/check?uri=referer" target="_blank"> <img src="https://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01"> </a> <a href="https://jigsaw.w3.org/css-validator/check/referer" target="_blank"> <img src="https://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS"> </a> </p>
+<p align="center">
+  <a href="https://validator.w3.org/">
+    <img src="https://www.w3.org/Icons/valid-html401" alt="Valid HTML">
+  </a>
+  <a href="https://jigsaw.w3.org/css-validator/">
+    <img src="https://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS">
+  </a>
+</p>
