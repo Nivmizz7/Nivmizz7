@@ -12,7 +12,8 @@ Welcome on my README page.
 - [tarkov-data-overlay](https://github.com/Nivmizz7/tarkov-data-overlay) - fork of [tarkov-data-overlay](https://github.com/tarkovtracker-org/tarkov-data-overlay)
 
 **Discord :**
-- [kantine](https://github.com/Nivmizz7/kantine)
+- [TrackerBot](https://github.com/TarkovTracker-org/TrackerBot) - Discord bot for TarkovTracker.org server
+- [kantine](https://github.com/Nivmizz7/kantine) - bot for food reservation
 
 **World of Warcraft**
 - [peninsula-timer](https://github.com/Nivmizz7/peninsula-timer) - Add-on for AzerothCore (WotLK 3.3.5)
