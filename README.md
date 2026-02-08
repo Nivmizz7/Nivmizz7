@@ -30,9 +30,9 @@ Welcome on my README page.
 **Other :**
 - [Nivmizz7.github.io](https://github.com/Nivmizz7/Nivmizz7.github.io) - based GitHub pages ([nivmizz7.me](https://nivmizz7.me))
 - [docs](https://github.com/Nivmizz7/docs) - my personnal docs (more **soon**)
-- [hello_100] - "Hello, I am Niv." in 100 different programmation language
-- [nginx-script] - script for nginx web server/proxy (more **soon**)
-- [gm_chip8] - Chip8 emulator, by Monokeros
+- [hello_100](https://github.com/Nivmizz7/hello_100) - "Hello, I am Niv." in 100 different programmation language
+- [nginx_script](https://github.com/Nivmizz7/nginx_script) - script for nginx web server/proxy (more **soon**)
+- [gm_chip8](https://github.com/Nivmizz7/gm_chip8) - Chip8 emulator, by Monokeros
 
 **Archive :**
 - [web](https://github.com/Nivmizz7/web) - old webpage
