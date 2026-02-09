@@ -47,7 +47,6 @@ Welcome on my README page.
 - [TarkovTracker-fork](https://github.com/Nivmizz7/TarkovTracker-fork) - old fork of [TarkovTracker-Archive](https://github.com/TarkovTracker-org/TarkovTracker-Archive)
 
 **Fork for contributed :**
-- [communicate-using-markdown](https://github.com/Nivmizz7/communicate-using-markdown)
 - [tarkov-dev-fork](https://github.com/Nivmizz7/tarkov-dev-fork)
 - [boss-spawns](https://github.com/Nivmizz7/boss_spawns)
 - [cultist-circle](https://github.com/Nivmizz7/cultist-circle)
