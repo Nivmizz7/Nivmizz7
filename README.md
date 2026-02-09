@@ -34,6 +34,10 @@ Welcome on my README page.
 - [nginx_script](https://github.com/Nivmizz7/nginx_script) - script for nginx web server/proxy (more **soon**)
 - [gm_chip8](https://github.com/Nivmizz7/gm_chip8) - Chip8 emulator, by Monokeros
 
+**Template :**
+- [template](https://github.com/Nivmizz7/template) - basic template with workflows and license for my personnal repo
+- [graph-template](https://github.com/Nivmizz7/graph-template) - template for projects like [kolotun](https://github.com/Nivmizz7/kolotun)
+
 **Archive :**
 - [web](https://github.com/Nivmizz7/web) - old webpage
 - [kolotun](https://github.com/Nivmizz7/kolotun) - web graph for Kolotun Tarkov quest 2025 with [draw.io](https://draw.io)
@@ -41,7 +45,6 @@ Welcome on my README page.
 - [overlay-monitor](https://github.com/Nivmizz7/overlay-monitor) - monitor for [tarkov-data-overlay](https://github.com/tarkovtracker-org/tarkov-data-overlay)
 - [peninsula](https://github.com/Nivmizz7/peninsula) - raid helper for Tarkov but so many problem with maps
 - [TarkovTracker-fork](https://github.com/Nivmizz7/TarkovTracker-fork) - old fork of [TarkovTracker-Archive](https://github.com/TarkovTracker-org/TarkovTracker-Archive)
-- 
 
 **Fork for contributed :**
 - [communicate-using-markdown](https://github.com/Nivmizz7/communicate-using-markdown)
