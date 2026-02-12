@@ -26,7 +26,7 @@ Welcome on my README page.
 - [learning-review-pr](https://github.com/Nivmizz7/learning-review-pr) - Review pull request _(Public Archive)_
 
 **Vintage Story :**
-- [VSMU](https://github.com/Nivmizz7/VSMU) - **Not working**
+- [VSMU](https://github.com/Nivmizz7/VSMU) - **Not working** (**V**intage **S**tory **M**od **U**pdater)
 
 **Other :**
 - [Nivmizz7.github.io](https://github.com/Nivmizz7/Nivmizz7.github.io) - based GitHub pages ([nivmizz7.me](https://nivmizz7.me))
