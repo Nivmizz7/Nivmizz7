@@ -1,6 +1,8 @@
 # Welcome
 Welcome on my README page.
 
+If you see projects call **Peninsula**, is my code name for my projects in devlopement (not finish/work)
+
 ## Projects / Repositories
 
 **Tarkov projects :**
@@ -16,9 +18,9 @@ Welcome on my README page.
 - [kantine](https://github.com/Nivmizz7/kantine) - bot for food reservation
 
 **World of Warcraft :**
-- [peninsula-timer](https://github.com/Nivmizz7/peninsula-timer) - Add-on for AzerothCore (WotLK 3.3.5)
-- [peninsula-boss](https://github.com/Nivmizz7/peninsula-boss) - Add-on for AzerothCore (WotLK 3.3.5)
-- [peninsula-db](https://github.com/Nivmizz7/peninsula-db) - web AzerothCore database reader
+- [azerothcore-timer](https://github.com/Nivmizz7/peninsula-timer) - Add-on for AzerothCore (WotLK 3.3.5)
+- [azerothcore-boss](https://github.com/Nivmizz7/peninsula-boss) - Add-on for AzerothCore (WotLK 3.3.5)
+- [azerothcore-db](https://github.com/Nivmizz7/peninsula-db) - web AzerothCore database reader
 - [guild-manager](https://github.com/Nivmizz7/guild-manager) - web tool helper for manage WoW guild
 
 **GitHub learning :**
@@ -44,7 +46,7 @@ Welcome on my README page.
 - [kolotun](https://github.com/Nivmizz7/kolotun) - web graph for Kolotun Tarkov quest 2025 with [draw.io](https://draw.io)
 - [tarkov-monitor-website](https://github.com/Nivmizz7/tarkov-monitor-website) - AI made website for TarkovMonitor page
 - [overlay-monitor](https://github.com/Nivmizz7/overlay-monitor) - monitor for [tarkov-data-overlay](https://github.com/tarkovtracker-org/tarkov-data-overlay)
-- [peninsula](https://github.com/Nivmizz7/peninsula) - raid helper for Tarkov but so many problem with maps
+- [tarkov-raid-planner](https://github.com/Nivmizz7/tarkov-raid-planner) - raid helper for Tarkov but so many problem with maps
 - [TarkovTracker-fork](https://github.com/Nivmizz7/TarkovTracker-fork) - old fork of [TarkovTracker-Archive](https://github.com/TarkovTracker-org/TarkovTracker-Archive)
 
 **Fork for contributed :**
