@@ -48,6 +48,7 @@ If you see projects call **Peninsula**, is my code name for my projects in devlo
 - [overlay-monitor](https://github.com/Nivmizz7/overlay-monitor) - monitor for [tarkov-data-overlay](https://github.com/tarkovtracker-org/tarkov-data-overlay)
 - [tarkov-raid-planner](https://github.com/Nivmizz7/tarkov-raid-planner) - raid helper for Tarkov but so many problem with maps
 - [TarkovTracker-fork](https://github.com/Nivmizz7/TarkovTracker-fork) - old fork of [TarkovTracker-Archive](https://github.com/TarkovTracker-org/TarkovTracker-Archive)
+- [fibonacci](https://github.com/Nivmizz7/fibonacci) - work on a C fibonacci sequence
 
 **Fork for contributed :**
 - [tarkov-dev-fork](https://github.com/Nivmizz7/tarkov-dev-fork)
