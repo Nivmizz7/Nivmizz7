@@ -1,7 +1,7 @@
 ## Repositories (auto-update)
 
 <!-- REPO_TABLE:START -->
-_Last update: 2026-03-29 09:09 UTC_
+_Last update: 2026-03-29 10:11 UTC_
 
 | Repository | Language | Stars | Description | Status |
 |---|---|---:|---|---|
@@ -46,6 +46,7 @@ _Last update: 2026-03-29 09:09 UTC_
 | [TarkovTracker-fork](https://github.com/Nivmizz7/TarkovTracker-fork) | TypeScript | 0 | TarkovTracker - Web App for tracking & planning your progression in the game Escape From Tarkov. | Archive |
 | [TarkovTrackerNuxt-fork](https://github.com/Nivmizz7/TarkovTrackerNuxt-fork) | TypeScript | 0 | Rewrite of TarkovTracker.org in Nuxt. | Fork |
 | [template](https://github.com/Nivmizz7/template) | — | 0 | My template for my repository. | Template |
+| [update-license-year](https://github.com/Nivmizz7/update-license-year) | Shell | 0 | GitHub Action for update the year in the license. | — |
 | [VSMU](https://github.com/Nivmizz7/VSMU) | JavaScript | 0 | Vintage Story Mods Updater | — |
 | [web](https://github.com/Nivmizz7/web) | HTML | 0 | Webpage : nivmizz7.fr | — |
 | [web-pickle](https://github.com/Nivmizz7/web-pickle) | CSS | 0 | Website for Pickle Team | — |
