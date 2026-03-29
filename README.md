@@ -75,5 +75,5 @@ _Last update: 2026-03-29 10:11 UTC_
 ## Contact
 
 - GitHub: [@Nivmizz7](https://github.com/Nivmizz7)
-- X / Twitter: —
-- Email: —
+- Discord: https://discord.gg/PpdDwd2M6V
+- Twitter: [@nivmizz7_v2](https://x.com/nivmizz7_v2)
