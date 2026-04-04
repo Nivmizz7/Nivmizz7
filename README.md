@@ -56,11 +56,6 @@ _Last update: 2026-03-30 19:08 UTC_
 ## GitHub Stats
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Nivmizz7&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivmizz7&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nivmizz7&theme=github_dark" alt="Repos per Language" height="160" />
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nivmizz7&theme=github_dark" alt="Most Commit Language" height="160" />
 </p>
